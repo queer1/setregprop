@@ -1,0 +1,6 @@
+#!/bin/sh
+setregproptool=/Library/Scripts/setregproptool
+
+sudo ./$setregproptool -p 'Your Password Here' -m command
+
+exit 0
